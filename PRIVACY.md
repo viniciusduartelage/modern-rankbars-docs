@@ -21,8 +21,8 @@ All processing happens locally within the Power BI rendering sandbox.
 ## Contact
 
 Questions about this policy: open an issue at
-<https://github.com/viniciusduartelage/modern-rankbars/issues> or email
-`nic@orthocrin.com.br`.
+<https://github.com/viniciusduartelage/modern-rankbars-docs/issues> or email
+`vinicius@dulage.onmicrosoft.com`.
 
 ---
 
@@ -37,5 +37,5 @@ do Power BI**. Sem cookies, rastreamento, análise ou telemetria. O autor não t
 nenhum dado exibido no visual.
 
 Dúvidas: abra uma issue em
-<https://github.com/viniciusduartelage/modern-rankbars/issues> ou escreva para
-`nic@orthocrin.com.br`.
+<https://github.com/viniciusduartelage/modern-rankbars-docs/issues> ou escreva para
+`vinicius@dulage.onmicrosoft.com`.
