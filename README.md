@@ -1,4 +1,4 @@
-# Modern RankBars — Public Documents
+# Modern RankBars, Public Documents
 
 Public legal/support documents for the **Modern RankBars** Power BI custom visual
 (used as the Privacy / Support / Terms links on Microsoft AppSource).
