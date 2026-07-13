@@ -6,7 +6,7 @@ Need help with Modern RankBars (Power BI custom visual)?
 
 - Report a bug or request a feature by opening an issue at
   https://github.com/viniciusduartelage/modern-rankbars-docs/issues
-- Email: vinicius@dulage.onmicrosoft.com
+- Email: viniciusduartelage@outlook.com
 
 Support is provided on a best effort basis. When you report a problem, please include your Power BI
 version, what you expected, what happened, and a screenshot if possible.
@@ -19,7 +19,7 @@ Precisa de ajuda com o Modern RankBars?
 
 - Relate um bug ou peça um recurso abrindo uma issue em
   https://github.com/viniciusduartelage/modern-rankbars-docs/issues
-- E-mail: vinicius@dulage.onmicrosoft.com
+- E-mail: viniciusduartelage@outlook.com
 
 O suporte é feito da melhor forma possível. Ao relatar um problema, inclua a versão do Power BI, o
 que você esperava, o que aconteceu e, se possível, um print.

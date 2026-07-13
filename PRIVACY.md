@@ -21,7 +21,7 @@ All processing happens locally within the Power BI rendering sandbox.
 
 For questions about this policy, open an issue at
 https://github.com/viniciusduartelage/modern-rankbars-docs/issues or write to
-vinicius@dulage.onmicrosoft.com.
+viniciusduartelage@outlook.com.
 
 ---
 
@@ -37,4 +37,4 @@ visual.
 
 Para dúvidas, abra uma issue em
 https://github.com/viniciusduartelage/modern-rankbars-docs/issues ou escreva para
-vinicius@dulage.onmicrosoft.com.
+viniciusduartelage@outlook.com.
